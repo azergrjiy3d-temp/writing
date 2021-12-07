@@ -1,2 +1,3 @@
-# writing
-Writing is a commit based text editing publishing folder
+# Writing
+
+Writing is a commit based text editing publishing folder.
